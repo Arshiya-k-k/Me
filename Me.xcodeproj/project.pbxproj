@@ -14,6 +14,7 @@
 		BD38A4752C5CE2E20043758A /* MeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD38A4742C5CE2E20043758A /* MeTests.swift */; };
 		BD38A47F2C5CE2E20043758A /* MeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD38A47E2C5CE2E20043758A /* MeUITests.swift */; };
 		BD38A4812C5CE2E20043758A /* MeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD38A4802C5CE2E20043758A /* MeUITestsLaunchTests.swift */; };
+		BD38A48E2C5CE31F0043758A /* ProfilePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD38A48D2C5CE31F0043758A /* ProfilePage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		BD38A47A2C5CE2E20043758A /* MeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD38A47E2C5CE2E20043758A /* MeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeUITests.swift; sourceTree = "<group>"; };
 		BD38A4802C5CE2E20043758A /* MeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BD38A48D2C5CE31F0043758A /* ProfilePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfilePage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				BD38A4632C5CE2E00043758A /* MeApp.swift */,
 				BD38A4652C5CE2E00043758A /* ContentView.swift */,
+				BD38A48D2C5CE31F0043758A /* ProfilePage.swift */,
 				BD38A4672C5CE2E20043758A /* Assets.xcassets */,
 				BD38A4692C5CE2E20043758A /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD38A48E2C5CE31F0043758A /* ProfilePage.swift in Sources */,
 				BD38A4662C5CE2E00043758A /* ContentView.swift in Sources */,
 				BD38A4642C5CE2E00043758A /* MeApp.swift in Sources */,
 			);
